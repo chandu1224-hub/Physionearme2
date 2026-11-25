@@ -88,7 +88,7 @@ export default function Home() {
 
       <section className="closing wrap" id="about"><div className="closing-copy"><div className="eyebrow dark-eyebrow">SMALL STEPS. STRONGER DAYS.</div><h2>Your next move<br />starts <em>right here.</em></h2><p>Search by location and explore physiotherapy options around you.</p><a className="closing-button" href="#find">Find care near me <span>→</span></a></div><div className="closing-shape"><span>MOVE<br />WELL.</span><div className="shape-ring" /></div></section>
 
-      <footer className="footer"><div className="wrap footer-inner"><a className="brand footer-brand" href="#"><span className="brand-mark">✳</span><span>physio<span className="brand-light">near</span>me</span></a><span>Helping you take the next step towards better movement.</span><span>© {new Date().getFullYear()} PhysioNearMe</span></div><div className="wrap footer-disclaimer">PhysioNearMe is a discovery starting point. Search results are provided by Google Maps; verify provider credentials and suitability directly. This website does not provide medical advice or emergency care.</div></footer>
+      <footer className="footer"><div className="wrap footer-inner"><a className="brand footer-brand" href="#"><span className="brand-mark">✳</span><span>physio<span className="brand-light">near</span>me</span></a><span>Helping you take the next step towards better movement.</span><span>© 2026 PhysioNearMe</span></div><div className="wrap footer-disclaimer">PhysioNearMe is a discovery starting point. Search results are provided by Google Maps; verify provider credentials and suitability directly. This website does not provide medical advice or emergency care.</div></footer>
     </main>
   );
 }
